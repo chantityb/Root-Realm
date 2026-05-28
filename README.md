@@ -1,3 +1,6 @@
+> 🚀 **Current Focus:** Development has temporarily shifted to a dedicated, lean repository (`root-realm-mvp`) to build the core xAI and Weather API data pipeline.
+
+
 # Root Realm 🌿
 
 Root Realm is an intuitive gardening guide that turns complex botanical data into simple, actionable wisdom. By blending Explainable AI (XAI) diagnostics with real-time climate alerts, Root Realm empowers growers of all experience levels to nurture their plants with confidence—from the first seedling to a successful harvest.
